@@ -1,5 +1,5 @@
 # 🌤️ Weather App
-## Live Demo: https://guptavaibhav654.github.io/weather-app/
+## Live Demo: https://guptavaibhva654-weather-app.vercel.app/
 
 A simple web-based weather application that displays real-time weather information for any city using data fetched from a public API.
 
